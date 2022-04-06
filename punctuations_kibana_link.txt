@@ -1,1 +1,0 @@
-http://18.193.66.210:5601/app/dashboards#/view/e8b45f50-b2c1-11ec-b731-797c988faad6?embed=true&_g=(filters:!(),query:(language:kuery,query:''),refreshInterval:(pause:!t,value:0),time:(from:now-15w,to:now))&hide-filter-bar=true
